@@ -13,7 +13,6 @@ int main(){
     x=1;
 
     if(prop<num){
-     
      while(prop<num){
         prop = prop+2;
         x = x + prop;
@@ -21,9 +20,7 @@ int main(){
         if(x==num){
             printf("%d eh raiz quadrada perfeita. Sua raiz eh: %d",num,raiz);
         }
-     
     }
-
 }else printf("1 eh raiz quadrada perfeita. Sua raiz eh: 1");
 
 }

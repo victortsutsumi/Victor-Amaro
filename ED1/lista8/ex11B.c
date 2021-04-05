@@ -1,0 +1,3 @@
+/*  Senha Correta
+    
+    Acesso liberado */
